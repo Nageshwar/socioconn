@@ -1,0 +1,14 @@
+.bodyDiv {
+  height: 100vh;
+}
+.bodyContiner {
+  margin-top: 10px;
+}
+.tabs a {
+  color: #64b5f6;
+  font-weight: bold;
+  font-size: 28px;
+}
+.tabs .active {
+  background: inherit !important;
+}
